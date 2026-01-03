@@ -22,8 +22,7 @@ Check out the live project here: [https://creative-showcase-topaz.vercel.app/](h
 
 ## 💻 Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript  
-  *(Bonus: Built using React for modern UI management)*  
+- **Frontend:** react and redux toolkit and router
 - **Storage:** Local storage / optional backend integration  
 - **Deployment:** Vercel  
 
