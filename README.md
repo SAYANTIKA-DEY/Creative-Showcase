@@ -39,7 +39,7 @@ cd creative-showcase
 3. Install dependencies
 npm install
 
-Run the development server:
+4. Run the development server:
 npm start
 
 ## Project Structure
